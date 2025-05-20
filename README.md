@@ -12,8 +12,6 @@
 
 *DURATION* :- NEELA SANTOSH
 
-DESCRIPTION***
-
 # Automated PDF Report Generator: Description
 
 This Python script provides a comprehensive solution for generating professional PDF reports from CSV data. The implementation combines file handling, data analysis, and PDF generation capabilities into a single, reusable class that can be easily integrated into various data processing workflows.
